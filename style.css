@@ -1,0 +1,20 @@
+h1 {
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 70px;
+}
+body {
+    max-width: 1000px; /* Максимальная ширина страницы в пикселах */ 
+    font-family: 'Open Sans', sans-serif;
+  }
+pre{
+    color: Gray;
+    font-weight: lighter;
+}
+p {
+    margin-top: 7em; /* Отступ сверху */
+    /*margin-bottom: 10em; /* Отступ снизу */
+   }
+p.b{
+    margin-top: 5em;
+}
